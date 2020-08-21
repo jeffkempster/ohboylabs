@@ -20,6 +20,14 @@ img {
     margin-bottom: 20px;
 }
 
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+
 .myButton {
 	box-shadow: 2px 2px 0px 0px #008fcc;
 	background-color:#3055b4;
