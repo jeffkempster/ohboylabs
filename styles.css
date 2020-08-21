@@ -19,7 +19,7 @@ img {
     margin-bottom: 20px;
 }
 
-a.linkButton {
+.linkButton {
 	box-shadow: 2px 2px 0px 0px #008fcc;
 	background-color:#3055b4;
 	border-radius:6px;
@@ -39,10 +39,34 @@ a.linkButton {
     width: 80%;
 }
 
+.linkButton:hover {
+	background-color:#213B7D;
+}
+
+
+
+.linkButton:active {
+	position:relative;
+	top:1px;
+}
+
 a.linkText {
     color:#f7a32a;
 }
 
 a.linkText:visited {
     color:#f7a32a;
+}
+
+a.linkText:active {
+    color:#f7a32a;
+}
+
+
+@media (hover: none) {
+    .linkButton {
+        color: #ffffff;
+        background-color:#3055b4;
+    }
+
 }
