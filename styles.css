@@ -62,6 +62,12 @@ a.linkText:active {
     color:#f7a32a;
 }
 
+img.icon {
+    height: 25px;
+    width: 25px;
+    display: inline-block;
+    vertical-align: middle;
+}
 
 @media (hover: none) {
     .linkButton {
