@@ -1,3 +1,5 @@
+![OHBOY Labs Logo](images/logo.png)
+
 # OHBOY Labs! Website 
 
 ## Website URL
