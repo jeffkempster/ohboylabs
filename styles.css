@@ -7,22 +7,35 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 30%;
+}
+
+img.icon {
+    height: 25px;
+    width: 25px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.new {
+    font-size: 8pt;
+    color:#f7a32a;
 }
 
 .myText {
-    font-size: 10pt;
+    font-size: 12pt;
     text-align: center;
     font-family:Verdana;
     color:#ffffff;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 4px;
+    margin-bottom: 40px;
 }
 
 .linkButton {
 	box-shadow: 2px 2px 0px 0px #008fcc;
-	background-color:#3055b4;
-	border-radius:6px;
+    background-color: transparent;
+    border:1px solid rgb(16, 33, 71);
+    border-radius:6px;
 	display: block;
 	cursor:pointer;
 	color:#ffffff;
@@ -35,14 +48,11 @@ img {
     margin-right: auto;
     text-decoration:none;
     text-align: center;
-    text-shadow:0px -1px 0px #5b6178;
-    width: 80%;
+    min-width: 200px;
+    max-width: 300px;
+    /*text-shadow:0px -1px 0px #5b6178;
+    width: 80%;*/
 }
-
-.linkButton:hover {
-	background-color:#213B7D;
-}
-
 
 
 .linkButton:active {
@@ -60,13 +70,6 @@ a.linkText:visited {
 
 a.linkText:active {
     color:#f7a32a;
-}
-
-img.icon {
-    height: 25px;
-    width: 25px;
-    display: inline-block;
-    vertical-align: middle;
 }
 
 @media (hover: none) {
