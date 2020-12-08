@@ -1,4 +1,4 @@
-![OHBOY Labs Logo](images/logo.png)
+![OHBOY Labs Logo](apple-touch-icon.png)
 
 # OHBOY Labs! Website 
 
