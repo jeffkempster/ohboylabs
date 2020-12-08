@@ -1,6 +1,6 @@
 body {
     background: rgb(0,255,238);
-    background: linear-gradient(180deg, rgba(0,255,238,1) 0%, rgba(5,88,234,1) 100%) fixed; 
+    background: linear-gradient(180deg, rgb(0, 216, 236) 0%, rgb(3, 76, 203) 100%) fixed; 
 }
 
 img {
