@@ -19,7 +19,7 @@ img.icon {
 
 .new {
     font-size: 8pt;
-    color:#f7a32a;
+    color: #f7a32a;
 }
 
 .myText {
@@ -34,8 +34,8 @@ img.icon {
 .linkButton {
 	/*box-shadow: 2px 2px 0px 0px #008fcc;*/
     background-color: transparent;
-    border:1px solid rgb(16, 33, 71);
-    border-radius:6px;
+    border: 2px solid white;
+    border-radius:2px;
 	display: block;
 	cursor:pointer;
 	color:#ffffff;
@@ -72,6 +72,7 @@ a.linkText:active {
     color:#f7a32a;
 }
 
+/*
 @media (hover: none) {
     .linkButton {
         color: #ffffff;
@@ -79,3 +80,4 @@ a.linkText:active {
     }
 
 }
+*/
