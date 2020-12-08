@@ -1,6 +1,6 @@
 body {
     background: rgb(0,255,238);
-    background: linear-gradient(180deg, rgb(0, 216, 236) 0%, rgb(3, 76, 203) 100%) fixed; 
+    background: linear-gradient(180deg, #3090D4 0%, #3049AD 100%) fixed; 
 }
 
 img {
@@ -27,6 +27,7 @@ img.icon {
     font-size: 12pt;
     text-align: center;
     font-family:Verdana;
+    font-weight: bold;
     color:#ffffff;
     margin-top: 4px;
     margin-bottom: 40px;
