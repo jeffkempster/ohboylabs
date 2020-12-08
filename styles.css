@@ -32,7 +32,7 @@ img.icon {
 }
 
 .linkButton {
-	box-shadow: 2px 2px 0px 0px #008fcc;
+	/*box-shadow: 2px 2px 0px 0px #008fcc;*/
     background-color: transparent;
     border:1px solid rgb(16, 33, 71);
     border-radius:6px;
