@@ -15,6 +15,7 @@ img.icon {
     width: 25px;
     display: inline-block;
     vertical-align: middle;
+    white-space: nowrap;
 }
 
 .new {
