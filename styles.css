@@ -17,6 +17,10 @@ img.icon {
     vertical-align: middle;
 }
 
+img.logo {
+    width: 20%;
+}
+
 .new {
     font-size: 8pt;
     color: #f9d554;
