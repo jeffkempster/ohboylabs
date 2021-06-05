@@ -31,6 +31,15 @@ img.pagenotfound {
     white-space: nowrap;
 }
 
+.featuredItems {
+    font-size: 9pt;
+    text-align: center;
+    font-family: Verdana;
+    color: #ffffff;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
 .myText {
     font-size: 12pt;
     text-align: center;
