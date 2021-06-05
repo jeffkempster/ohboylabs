@@ -17,6 +17,13 @@ img.logo {
     max-width: 300px;
 }
 
+img.pagenotfound {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+}
+
 .new {
     font-size: 8pt;
     color: #f9d554;
