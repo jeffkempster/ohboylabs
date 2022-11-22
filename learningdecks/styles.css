@@ -17,6 +17,11 @@ img.logo {
     max-width: 250px;
 }
 
+img.screenshot {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 img.pagenotfound {
     display: block;
     margin-left: auto;
