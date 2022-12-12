@@ -31,14 +31,6 @@
 }
 
 .nav-item {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 800;
-}
-
-.footer-item {
-    font-size: 12px;
-    font-weight: 900;
-    text-decoration: none;
-    color: #6c757d !important;
-    padding: 10px;
 }
