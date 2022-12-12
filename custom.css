@@ -1,0 +1,44 @@
+.appstore-icon {
+    max-width: 80%;
+}
+
+.promo-icon {
+    padding: 20px;
+}
+
+.appstore-button {
+    max-width: 60%;
+    padding-top: 10px;
+}
+
+.appstore-title {
+    font-size: 1.2em;
+    font-weight: 900;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.active {
+    color: #3049AD !important;
+    font-weight: 800;
+}
+
+.title-bar {
+    background-color: #3049AD;
+    padding-top: 10px;
+    padding-bottom: 6px;
+}
+
+.nav-item {
+    font-size: 12px;
+    font-weight: 800;
+}
+
+.footer-item {
+    font-size: 12px;
+    font-weight: 900;
+    text-decoration: none;
+    color: #6c757d !important;
+    padding: 10px;
+}
