@@ -1,3 +1,7 @@
+a {
+    text-decoration: none;
+}
+
 .appstore-icon {
     max-width: 80%;
 }
@@ -7,8 +11,7 @@
 }
 
 .appstore-button {
-    max-width: 200px;
-    padding-top: 10px;
+    max-width: 150px;
 }
 
 .appstore-title {
