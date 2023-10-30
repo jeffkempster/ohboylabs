@@ -3,7 +3,7 @@ a {
 }
 
 .appstore-icon {
-    max-width: 80%;
+    max-width: 100px;
 }
 
 .promo-icon {
@@ -11,7 +11,11 @@ a {
 }
 
 .appstore-button {
+    margin-top: 10px;
     max-width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .appstore-title {
@@ -44,4 +48,14 @@ a {
 
 .bg-darkblue {
     background-color: #070a1e;
+}
+
+.story-title {
+    color: black;
+    font-weight: 800;
+}
+
+.story-thumbnail {
+    margin-top: 20px;
+    padding-bottom: 5px;
 }
