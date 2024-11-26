@@ -42,8 +42,8 @@ a {
     font-weight: 800;
 }
 
-.bg-notsolight {
-    background-color: #e8e8e8;
+.bg-almost-white {
+    background-color: #FFFFFF;
 }
 
 .bg-darkblue {
@@ -58,4 +58,8 @@ a {
 .story-thumbnail {
     margin-top: 20px;
     padding-bottom: 5px;
+}
+
+.custom-shadow {
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
 }
